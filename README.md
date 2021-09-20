@@ -1,7 +1,7 @@
 # Design-6
 For Engineering Design 6
 
-##Introduction to me
+## Introduction to me
 Hello, I am **Connor Eggert** and I am purusing a degree in Electrical Engineering. 
 I love reading so ima add my favorite quote here:
 > If ice can burn, then love and hate can mate," 
