@@ -7,5 +7,5 @@ My name is Connor Eggert and I am pursuing a degree in Electrical Engineering at
 
 [This](https://sites.google.com/view/design6connoreggert/home) is my google site for Design 6.
 
-Site updated 10/18/2021: Lesson5 complete
+Site completed for semester: 12/18/2021.
 
